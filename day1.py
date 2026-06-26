@@ -1,7 +1,21 @@
 # Introduction
-# Day 1 - 30DaysOfPython Challenge
+# Day 1 - 31DaysOfPython Challenge
+"""
+Day 1: Introduction to Python
+- Python is an interpreted language.
+- The 'print()' function is the primary way to output data.
+"""
 
-print("Hello World!")   # print hello world
+# Standard output
+print("Hello, World!") 
+
+# Printing multiple items with a separator
+print("Python", "is", "awesome", sep="-")
+
+# Using the end parameter to stay on the same line
+print("Loading", end="...")
+print("Done!")
+
 
 print(2 + 3)   # addition(+)
 print(3 - 1)   # subtraction(-)

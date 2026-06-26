@@ -1,4 +1,25 @@
 
+"""
+Day 2: Data Types
+- Python uses dynamic typing (no need to declare int/string).
+- Use type() to inspect data types.
+"""
+
+# Basic types
+age = 25              # int
+price = 19.99         # float
+name = "Alice"        # str
+is_student = True     # bool
+
+# Type casting: Converting data types
+# Useful for input processing where everything is a string initially
+age_as_str = str(age)
+print(f"Age as string: {age_as_str}, Type: {type(age_as_str)}")
+
+# Math with different types
+total = age + int(price) # Converting float to int truncates the decimal
+print(f"Total: {total}")
+
 # Variables in Python
 
 first_name = 'Asabeneh'
