@@ -10,10 +10,10 @@ Day 1: Introduction to Python
 print("Hello, World!") 
 
 # Printing multiple items with a separator
-print("Python", "is", "awesome", sep="-")
+print("Python", "is", "awesome", )
 
 # Using the end parameter to stay on the same line
-print("Loading", end="...")
+print("Loading")
 print("Done!")
 
 
