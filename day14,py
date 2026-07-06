@@ -1,0 +1,17 @@
+<!-- Day 14: Modules & Packages
+Goal: Organize code into reusable files.
+
+Concept: Python’s power lies in its libraries. You can use the import statement to bring in built-in functionality or create your own modules (any .py file can be a module). -->
+
+# Day 14: Modules
+import math
+import random
+from datetime import datetime
+
+# Using built-in modules
+print(f"Square root of 16 is: {math.sqrt(16)}")
+print(f"Random number: {random.randint(1, 100)}")
+print(f"Current date: {datetime.now().strftime('%Y-%m-%d')}")
+
+# Note: In a real project, you would create 'my_utils.py' 
+# and use 'import my_utils' to keep your main file clean.
