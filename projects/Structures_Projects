@@ -1,0 +1,5 @@
+Project: Student Grade Tracker
+
+Goal: Use Dictionaries and Lists.
+
+Utility: Store student names as keys and a list of their grades as values. Calculate averages and identify the highest scorer.

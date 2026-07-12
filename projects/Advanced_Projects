@@ -1,0 +1,5 @@
+Project: Task Manager with Logging
+
+Goal: Use Error Handling, JSON for data storage, and Decorators for timing functions.
+
+Utility: A task manager that saves data to tasks.json. Use a decorator to log how long the program takes to save or load tasks.
