@@ -1,0 +1,8 @@
+Project: ATM/Banking Simulation
+
+Goal: Use Inheritance, Encapsulation, and Methods.
+
+Utility: Create a system with Account (Parent) and SavingsAccount/CheckingAccount (Children). Handle deposits, withdrawals, and balance privacy using __balance.
+
+
+ 
