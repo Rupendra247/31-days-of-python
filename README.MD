@@ -22,5 +22,5 @@ Each phase focuses on building specific skills required to become a proficient P
 | **Advanced** | 24–31 | Error Handling, Decorators & Final Project |
 
 ## 🛠️ How to Use This Repo
-1. **Explore the Files:** Each day is saved in its own file (e.g., `day_01.py`).
+1. **Explore the Files:** Each day is saved in its own file (e.g., `day1.py`).
 2. **Read the Comments:** Each file contains documented code that explains the *what*, the *how*, and the *why* of the logic used.
