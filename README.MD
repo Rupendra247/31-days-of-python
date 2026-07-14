@@ -16,13 +16,13 @@ Each phase focuses on building specific skills required to become a proficient P
 
 
  **Foundations**
-Day (1–7)  Syntax & Basic Logic
+   - Day (1–7)  Syntax & Basic Logic
  **Structures**  
-Day (8–15) Data Containers & Reusable Functions 
+   - Day (8–15) Data Containers & Reusable Functions 
  **OOP Mastery** 
-Day (16–23) Classes, Inheritance, & Systems Design 
+   - Day (16–23) Classes, Inheritance, & Systems Design 
  **Advanced**
-Day (24–31)  Error Handling, Decorators & Final Project 
+   - Day (24–31)  Error Handling, Decorators & Final Project 
 
 ## How to Use This Repo
 1. **Explore the Files:** Each day is saved in its own file (e.g., `day1.py`).
