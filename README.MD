@@ -15,13 +15,13 @@ Each phase focuses on building specific skills required to become a proficient P
 ## Roadmap Overview
 
 
- **Foundations**
+1- **Foundations**
    - Day (1–7)  Syntax & Basic Logic
- **Structures**  
+2- **Structures**  
    - Day (8–15) Data Containers & Reusable Functions 
- **OOP Mastery** 
+3- **OOP Mastery** 
    - Day (16–23) Classes, Inheritance, & Systems Design 
- **Advanced**
+4- **Advanced**
    - Day (24–31)  Error Handling, Decorators & Final Project 
 
 ## How to Use This Repo
