@@ -15,11 +15,15 @@ Each phase focuses on building specific skills required to become a proficient P
 ## Roadmap Overview
 
 
- **Foundations** Day 1–7 | Syntax & Basic Logic |
- **Structures**  Day 8–15 | Data Containers & Reusable Functions |
- **OOP Mastery** Day 16–23 | Classes, Inheritance, & Systems Design |
- **Advanced** Day 24–31 | Error Handling, Decorators & Final Project |
+ **Foundations**
+Day (1–7)  Syntax & Basic Logic
+ **Structures**  
+Day (8–15) Data Containers & Reusable Functions 
+ **OOP Mastery** 
+Day (16–23) Classes, Inheritance, & Systems Design 
+ **Advanced**
+Day (24–31)  Error Handling, Decorators & Final Project 
 
-## 🛠️ How to Use This Repo
+## How to Use This Repo
 1. **Explore the Files:** Each day is saved in its own file (e.g., `day1.py`).
 2. **Read the Comments:** Each file contains documented code that explains the *what*, the *how*, and the *why* of the logic used.
