@@ -17,10 +17,13 @@ Each phase focuses on building specific skills required to become a proficient P
 
 1- **Foundations**
    - Day (1–7)  Syntax & Basic Logic
+
 2- **Structures**  
    - Day (8–15) Data Containers & Reusable Functions 
+
 3- **OOP Mastery** 
    - Day (16–23) Classes, Inheritance, & Systems Design 
+
 4- **Advanced**
    - Day (24–31)  Error Handling, Decorators & Final Project 
 
