@@ -2,7 +2,7 @@
 
 Welcome to my 31-day Python learning journey! This repository is a documented log of my progress from absolute beginner to building professional-grade applications using Object-Oriented Programming (OOP).
 
-## 🚀 Repository Structure
+## Repository Structure
 Each phase focuses on building specific skills required to become a proficient Python developer.
 
 - **Phase 1 (Days 1–7): Foundations**
@@ -12,15 +12,21 @@ Each phase focuses on building specific skills required to become a proficient P
 - **Phase 3 (Days 16–23): Object-Oriented Programming (OOP)**
   - Classes, Objects, Inheritance, Encapsulation, Polymorphism, and Abstraction.
 
-## 📅 Roadmap Overview
+## Roadmap Overview
 
-| Phase | Days | Focus |
 
-| **Foundations** | 1–7 | Syntax & Basic Logic |
-| **Structures** | 8–15 | Data Containers & Reusable Functions |
-| **OOP Mastery** | 16–23 | Classes, Inheritance, & Systems Design |
-| **Advanced** | 24–31 | Error Handling, Decorators & Final Project |
+1. **Foundations**
+   - Day (1–7)  Syntax & Basic Logic
 
-## 🛠️ How to Use This Repo
-1. **Explore the Files:** Each day is saved in its own file (e.g., `day_01.py`).
+2. **Structures**  
+   - Day (8–15) Data Containers & Reusable Functions 
+
+3. **OOP Mastery** 
+   - Day (16–23) Classes, Inheritance, & Systems Design 
+
+4. **Advanced**
+   - Day (24–31)  Error Handling, Decorators & Final Project 
+
+## How to Use This Repo
+1. **Explore the Files:** Each day is saved in its own file (e.g., `day1.py`).
 2. **Read the Comments:** Each file contains documented code that explains the *what*, the *how*, and the *why* of the logic used.
