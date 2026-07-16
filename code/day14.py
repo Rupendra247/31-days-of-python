@@ -1,7 +1,7 @@
-<!-- Day 14: Modules & Packages
-Goal: Organize code into reusable files.
+# <!-- Day 14: Modules & Packages
+# Goal: Organize code into reusable files.
 
-Concept: Python’s power lies in its libraries. You can use the import statement to bring in built-in functionality or create your own modules (any .py file can be a module). -->
+# Concept: Python’s power lies in its libraries. You can use the import statement to bring in built-in functionality or create your own modules (any .py file can be a module). -->
 
 # Day 14: Modules
 import math
