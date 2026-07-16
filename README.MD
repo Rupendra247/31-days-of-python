@@ -30,3 +30,5 @@ Each phase focuses on building specific skills required to become a proficient P
 ## How to Use This Repo
 1. **Explore the Files:** Each day is saved in its own file (e.g., `day1.py`).
 2. **Read the Comments:** Each file contains documented code that explains the *what*, the *how*, and the *why* of the logic used.
+
+Note : I used AI tools during this project to help handle important terms and organize the repo properly.
